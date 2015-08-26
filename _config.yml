@@ -1,0 +1,36 @@
+# Site settings
+title: Hao Chen's website
+email: chenh@uwplatt.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://imick.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  imick
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: imick
+  twitter: jekyllrb
+
+# jekyll-rake-boilerplate
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: master
+# transfer:
+#   command: rsync
+#   settings: -av
+#   source: _site/
+#   destination: ~/Projects/imick.github.io/
