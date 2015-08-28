@@ -25,11 +25,11 @@ permalink: pretty
 exclude: [vendor]
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
+# twitter_username: _jacobtomlinson
 github_username:  imick
 linkedin_link: http://www.linkedin.com/pub/hao-chen/1/a19/16
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+# google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
 
 # Footer
 footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
