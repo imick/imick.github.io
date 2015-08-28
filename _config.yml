@@ -1,5 +1,5 @@
 # Site settings
-title: Hao Chen's website
+title: Studio Zero
 email: chenh@uwplatt.edu
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,15 +9,31 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://imick.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  imick
+title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
+title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+google_analytics: "UA-20365477-4"
+disqus_account: cartenoire
+github_repository: https://github.com/jacobtomlinson/carte-noire
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
 
 # Build settings
-markdown: kramdown
-permalink: /:title
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
 
-# Includes an icon in the footer for each user name you enter
-footer-links:
-  github: imick
-  twitter: jekyllrb
+# Social usernames/URLs
+twitter_username: _jacobtomlinson
+github_username:  imick
+linkedin_link: http://www.linkedin.com/pub/hao-chen/1/a19/16
+google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # jekyll-rake-boilerplate
 post:

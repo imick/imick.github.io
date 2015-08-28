@@ -2,5 +2,6 @@
 layout: post
 title:
 date:
-category:
+categories:
+author: Hao Chen
 ---
