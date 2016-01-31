@@ -3,6 +3,7 @@ layout: page
 title: "Reading records"
 permalink: /reading-records/
 date: 2016-01-31 10:27:52
+thumbnail: book
 ---
 
 ####2016-01-31
