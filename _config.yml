@@ -16,7 +16,7 @@ addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 permalink: pretty
