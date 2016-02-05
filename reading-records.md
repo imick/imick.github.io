@@ -5,6 +5,9 @@ permalink: /reading-records/
 date: 2016-01-31 10:27:52
 thumbnail: book
 ---
+#### 2016-02-04
+
+[The Used Lumber Project Book](http://book.douban.com/subject/26723331/) Pg 1-44
 
 #### 2016-02-03
 
