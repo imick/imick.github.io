@@ -6,9 +6,12 @@ date: 2016-01-31 10:27:52
 thumbnail: book
 ---
 
+#### 2016-02-08
+[Selecting and Drying Wood](http://book.douban.com/subject/2649788/) pp. 1-17
+
 #### 2016-02-06
 
-[The Used Lumber Project Book](http://book.douban.com/subject/26723331/) pp. 45-128
+[The Used Lumber Project Book](http://book.douban.com/subject/26723331/) pp. 45-128 **DONE**
 
 #### 2016-02-04
 
