@@ -5,6 +5,11 @@ permalink: /reading-records/
 date: 2016-01-31 10:27:52
 thumbnail: book
 ---
+#### 2016-02-10
+[Woodturning: A Foundation Course](http://book.douban.com/subject/26705538/) Intro
+
+#### 2016-02-09
+[Selecting and Drying Wood](http://book.douban.com/subject/2649788/) pp. 18-23
 
 #### 2016-02-08
 [Selecting and Drying Wood](http://book.douban.com/subject/2649788/) pp. 1-17
