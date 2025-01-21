@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woodworking on **Chiaroscuro**</title>
+    <link>http://localhost:1313/tags/woodworking/</link>
+    <description>Recent content in Woodworking on **Chiaroscuro**</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>imicky@gmail.com (imick)</managingEditor>
+    <webMaster>imicky@gmail.com (imick)</webMaster>
+    <copyright>© Copyright imick</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 16:12:52 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/woodworking/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shaker</title>
+      <link>http://localhost:1313/projects/shaker/</link>
+      <pubDate>Mon, 20 Jan 2025 16:12:52 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/projects/shaker/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/shaker/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Testing Post</title>
+      <link>http://localhost:1313/posts/testing-post/</link>
+      <pubDate>Mon, 20 Jan 2025 16:11:01 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/posts/testing-post/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/testing-post/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

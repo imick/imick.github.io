@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on **Chiaroscuro**</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on **Chiaroscuro**</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>imicky@gmail.com (imick)</managingEditor>
+    <webMaster>imicky@gmail.com (imick)</webMaster>
+    <copyright>© Copyright imick</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 16:12:52 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Woodworking</title>
+      <link>http://localhost:1313/tags/woodworking/</link>
+      <pubDate>Mon, 20 Jan 2025 16:12:52 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/tags/woodworking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Mon, 20 Jan 2025 16:11:01 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
