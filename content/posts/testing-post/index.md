@@ -1,6 +1,6 @@
 +++
 date = '2025-01-20T16:11:01-06:00'
-draft = true
+draft = false
 title = 'Testing Post'
 tags = ['woodworking', 'tech']
 series = ['教程']
