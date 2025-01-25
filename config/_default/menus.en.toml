@@ -32,6 +32,11 @@
 
 [[main]]
   name = "Projects"
+  pageRef = "tags/project"
+  weight = 20
+  
+[[main]]
+  name = "Projects"
   weight = 20
 
 [[main]]
