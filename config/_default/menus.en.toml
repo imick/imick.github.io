@@ -13,43 +13,48 @@
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 5
+  weight = 40
 
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 10
+  weight = 30
+
+#[[main]]
+#  name = "Art"
+#  pageRef = "tags/art"
+#  weight = 1
+
+#[[main]]
+#  name = "Design"
+#  pageRef = "tags/design"
+#  weight = 10
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 25
 
 [[main]]
   name = "Woodworking"
   pageRef = "tags/woodworking"
-  weight = 15
-
-[[main]]
-  name = "Tech"
-  pageRef = "tags/tech"
-  weight = 16
-
-[[main]]
-  name = "Projects"
-  pageRef = "tags/project"
   weight = 20
   
-[[main]]
-  name = "Projects"
-  weight = 20
+#[[main]]
+#  name = "Projects"
+#  weight = 20
 
-[[main]]
-  name = "example sub-menu 1"
-  parent = "Projects"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Projects"
+#  pageRef = "posts"
+#  weight = 20#
 
-[[main]]
-  name = "example sub-menu 2"
-  parent = "Projects"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Projects"
+#  pageRef = "posts"
+#  weight = 20
 
 #[[subnavigation]]
 #  name = "My Awesome Category"
