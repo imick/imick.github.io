@@ -5,6 +5,10 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://imick.github.io/"
 
+# custom css & js
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
+
 # language
 defaultContentLanguage = "en"
 pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

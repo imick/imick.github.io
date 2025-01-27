@@ -1,5 +1,4 @@
 ---
-title: 玩木工
-layout: test
+title: Journey to Woodworking
 ---
-Hello, I'm a ferocious lion.
+豆瓣上的【玩木工】系列。
