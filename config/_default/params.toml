@@ -17,6 +17,9 @@ replyByEmail = false
 mainSections = ["posts", "projects", "series"]
 # robots = ""
 
+# enable utteranc.es comments
+showComments = true
+
 disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
@@ -54,8 +57,8 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
