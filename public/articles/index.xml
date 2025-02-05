@@ -9,7 +9,17 @@
     <managingEditor>imicky@gmail.com (imick)</managingEditor>
     <webMaster>imicky@gmail.com (imick)</webMaster>
     <copyright>© Copyright imick</copyright>
-    <lastBuildDate>Thu, 19 Jun 2014 14:21:00 -0600</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jun 2014 14:23:01 -0600</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>玩木工【三】：Stanley 铁刨的翻新</title>
+      <link>http://localhost:1313/articles/jw003/</link>
+      <pubDate>Sun, 22 Jun 2014 14:23:01 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw003/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw003/featured.jpg" />
+    </item>
     
     <item>
       <title>玩木工【二】：Stanley 4 号铁刨</title>
