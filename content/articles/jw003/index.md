@@ -2,7 +2,7 @@
 date = '2014-06-22T14:23:01-06:00'
 draft = false
 title = '玩木工【三】：Stanley 铁刨的翻新'
-tags = ['woodworking', 'tool']
+tags = ['woodworking', 'hand tool']
 +++
 
 ## 翻新

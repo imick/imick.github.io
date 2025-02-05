@@ -1,8 +1,8 @@
 +++
 date = '2014-06-19T14:21:00-06:00'
 draft = false
-title = '玩木工【二】：Stanley 4 号铁刨'
-tags = ['woodworking', 'tool']
+title = '玩木工【二】：Stanley 4 号铁刨入手'
+tags = ['woodworking', 'hand tool']
 +++
 
 ## 缘起
