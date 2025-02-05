@@ -3,7 +3,7 @@
 {{ if .Title }}
 <figure>
   <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" loading="lazy" />
-  <figcaption style="text-align: center;">{{ .Title }}</figcaption>
+  <figcaption style="text-align: left;">{{ .Title }}</figcaption>
 </figure>
 {{ else }}
 <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" />
