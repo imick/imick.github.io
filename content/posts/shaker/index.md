@@ -2,7 +2,7 @@
 date = '2025-01-20T16:12:52-06:00'
 draft = true
 title = 'Shaker'
-tags = ['woodworking']
+tags = ['woodworking', 'project']
 +++
 ## Introduction
 

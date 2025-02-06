@@ -28,7 +28,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2014-06-25T04:45:27-06:00</lastmod>
+    <lastmod>2014-07-05T23:51:24-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw005/</loc>
+    <lastmod>2014-07-05T23:51:24-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
