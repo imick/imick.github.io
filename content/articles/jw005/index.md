@@ -9,7 +9,7 @@ tags = ['woodworking', 'project', 'chair']
 木工二号：儿童版 Adirondack Chair。此款凳子相传为 Thomas Lee 设计，在热爱户外活动的美国家庭中反响很不错，另外 Adirondack 是纽约州的一条山脉。
 
 ### 设计
-我用的是 Ana White 的设计图（http://ana-white.com/2010/05/plans/how-build-super-easy-little-adirondack-chair），介绍里说超简单超容易，但我还是花了三个星期才把各个工序都做齐，不过难度不高是真的。没有仔细相片纪录，就上点过程图吧。
+我用的是 Ana White 的设计图（[http://ana-white.com/2010/05/plans/how-build-super-easy-little-adirondack-chair](http://ana-white.com/2010/05/plans/how-build-super-easy-little-adirondack-chair)），介绍里说超简单超容易，但我还是花了三个星期才把各个工序都做齐，不过难度不高是真的。没有仔细相片纪录，就上点过程图吧。
 
 ## 过程
 初始将几块木头组合成这样，这一步和下一步都用的 Pocket Hole 连接。
@@ -41,7 +41,7 @@ Pocket Hole 们，每块板子每边用了 2 枚，后来想想有点 overkill�
 
 把背部和底部用长螺丝连起来，这就算半成品了。
 ![椅子的侧面](10.jpg '凳子可以立起来了')
-![椅子的正面](11.jpg '正面看起来像张椅子了，但这扶手够硌手的')
+![椅子的正面](11.jpg '正面看起来像张椅子了，但这“扶手”够硌手的')
 ![装好扶手的椅子的正面](12.jpg '这才像样嘛')
 ![装好扶手的椅子的侧面](13.jpg '后腿还是伸得太后了')
 ![装好扶手的椅子的背面](14.jpg '背面则是这样的')
