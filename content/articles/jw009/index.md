@@ -1,7 +1,7 @@
 +++
 date = '2014-12-02T15:15:01-06:00'
 draft = false
-title = '玩木工【九】：跟着Christopher Schwarz学做锯木凳（上）'
+title = '玩木工【九】：跟着 Christopher Schwarz 学做锯木凳（上）'
 tags = ['woodworking', 'project', 'stool']
 +++
 
@@ -129,7 +129,7 @@ tags = ['woodworking', 'project', 'stool']
 ![Cut Nail](37.jpg 'Cut Nail')
 
 记着顺着木纹上钉哦。
-![顺着木纹上钉](38.jpg, '顺着木纹上钉')
+![顺着木纹上钉](38.jpg '顺着木纹上钉')
 
 咦，真的没有开裂耶，这么宽的钉子，好神奇。
 ![钉子打进去了](39.jpg '钉子打进去了')
