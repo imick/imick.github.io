@@ -1,6 +1,6 @@
 +++
 date = '2014-12-20T13:22:44-06:00'
-draft = false
+draft = true
 title = '玩木工【十一】：制作辅具【其一】'
 tags = ['woodworking', 'jig']
 +++
