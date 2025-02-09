@@ -20,10 +20,11 @@ tags = ['woodworking', 'lumber']
 可能因为我是个做家具的新手，我现在一古脑的就是想怎么让板子更光滑更干净，所以暂时还没对 Rustic 风格感冒，不过有免费的木头用何乐而不为啊，于是现在在考虑用它来做点工房用的东西。
 
 木头到手后最难一步就是解体，特别是我什么大型工具都没有的情况下，搜了搜网上的教程，一般是两种方法，一种是用大撬杆，一种是用往复锯。大撬杆比较暴力，通常会损失几块板子，往复锯最快速，但缺点是把钉子都截断留在板子里，要清理那些钉子比较麻烦。比较之后我两种方法都不想用，因为我一不想损失板子，二不想买往复锯（其实连大撬杆我也不想买），最后在 YouTube 看到另一个办法：[https://www.youtube.com/watch?v=O7oWaRPpdKU](https://www.youtube.com/watch?v=O7oWaRPpdKU)
+
 优酷链接在此（再附送一个类似视频，更简单，用脚跺）：
 [http://v.youku.com/v_show/id_XODQ5MTEwOTA0.html](http://v.youku.com/v_show/id_XODQ5MTEwOTA0.html)
 [http://v.youku.com/v_show/id_XODQ5MTIyMTky.html](http://v.youku.com/v_show/id_XODQ5MTIyMTky.html)
-![视频截图](05.jpg '视频截图')
+![视频截图，勿点](05.jpg '视频截图，勿点')
                 
 方法是傻办法（费劲且费时），但优点是不需要买特别工具和不会损失板子。我照搬这个办法，第一次试做就把所有木板一块不剩的分解了，然后它们就成为这个样子了：
 ![木托盘解体](06.jpg '木托盘解体')
