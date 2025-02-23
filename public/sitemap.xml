@@ -4,31 +4,79 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-25T20:59:01-06:00</lastmod>
+    <lastmod>2025-02-07T10:07:28-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/links/</loc>
+    <lastmod>2025-02-07T10:07:28-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-01-25T20:59:01-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-01-20T16:12:52-06:00</lastmod>
+    <lastmod>2025-02-06T08:32:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-20T16:11:01-06:00</lastmod>
+    <lastmod>2025-01-20T16:12:52-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/articles/</loc>
-    <lastmod>2014-07-05T23:51:24-06:00</lastmod>
+    <lastmod>2015-02-25T00:12:02-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw013/</loc>
+    <lastmod>2015-02-25T00:12:02-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw012/</loc>
+    <lastmod>2015-01-20T14:13:48-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw011/</loc>
+    <lastmod>2014-12-20T13:22:44-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw010/</loc>
+    <lastmod>2014-12-12T05:08:13-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw009/</loc>
+    <lastmod>2014-12-02T15:15:01-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw008/</loc>
+    <lastmod>2014-09-23T22:10:50-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw007/</loc>
+    <lastmod>2014-09-03T10:00:33-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/articles/jw006/</loc>
+    <lastmod>2014-08-17T22:27:24-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -59,6 +107,11 @@
   <url>
     <loc>http://localhost:1313/articles/jw001/</loc>
     <lastmod>2014-06-02T14:41:51-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -9,16 +9,106 @@
     <managingEditor>imicky@gmail.com (imick)</managingEditor>
     <webMaster>imicky@gmail.com (imick)</webMaster>
     <copyright>© Copyright imick</copyright>
-    <lastBuildDate>Sat, 25 Jan 2025 20:59:01 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Feb 2025 10:07:28 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Fri, 07 Feb 2025 10:07:28 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/links/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Sat, 25 Jan 2025 20:59:01 -0600</pubDate>
+      <pubDate>Thu, 06 Feb 2025 08:32:00 -0600</pubDate>
       <author>imicky@gmail.com (imick)</author>
       <guid>http://localhost:1313/about/</guid>
       <description></description>
       
+    </item>
+    
+    <item>
+      <title>玩木工【十三】：新入的老工具</title>
+      <link>http://localhost:1313/articles/jw013/</link>
+      <pubDate>Wed, 25 Feb 2015 00:12:02 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw013/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw013/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【十二】：新工具（玩具）</title>
+      <link>http://localhost:1313/articles/jw012/</link>
+      <pubDate>Tue, 20 Jan 2015 14:13:48 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw012/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw012/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【十一】：制作辅具【其一】</title>
+      <link>http://localhost:1313/articles/jw011/</link>
+      <pubDate>Sat, 20 Dec 2014 13:22:44 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw011/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw011/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【十】：免费木头（Pallet Wood）</title>
+      <link>http://localhost:1313/articles/jw010/</link>
+      <pubDate>Fri, 12 Dec 2014 05:08:13 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw010/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw010/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【九】：跟着 Christopher Schwarz 学做锯木凳（上）</title>
+      <link>http://localhost:1313/articles/jw009/</link>
+      <pubDate>Tue, 02 Dec 2014 15:15:01 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw009/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw009/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【八】：没有专业的木工桌怎么办？</title>
+      <link>http://localhost:1313/articles/jw008/</link>
+      <pubDate>Tue, 23 Sep 2014 22:10:50 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw008/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw008/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【七】：工作角</title>
+      <link>http://localhost:1313/articles/jw007/</link>
+      <pubDate>Wed, 03 Sep 2014 10:00:33 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw007/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw007/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【六】：垃圾箱</title>
+      <link>http://localhost:1313/articles/jw006/</link>
+      <pubDate>Sun, 17 Aug 2014 22:27:24 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw006/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw006/featured.jpg" />
     </item>
     
     <item>

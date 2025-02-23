@@ -9,7 +9,27 @@
     <managingEditor>imicky@gmail.com (imick)</managingEditor>
     <webMaster>imicky@gmail.com (imick)</webMaster>
     <copyright>© Copyright imick</copyright>
-    <lastBuildDate>Sat, 05 Jul 2014 23:51:24 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Dec 2014 15:15:01 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>玩木工【九】：跟着 Christopher Schwarz 学做锯木凳（上）</title>
+      <link>http://localhost:1313/articles/jw009/</link>
+      <pubDate>Tue, 02 Dec 2014 15:15:01 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw009/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw009/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>玩木工【六】：垃圾箱</title>
+      <link>http://localhost:1313/articles/jw006/</link>
+      <pubDate>Sun, 17 Aug 2014 22:27:24 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw006/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw006/featured.jpg" />
+    </item>
     
     <item>
       <title>玩木工【五】：儿童版 Adirondack Chair</title>

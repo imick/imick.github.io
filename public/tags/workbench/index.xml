@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workbench on **Chiaroscuro**</title>
+    <link>http://localhost:1313/tags/workbench/</link>
+    <description>Recent content in Workbench on **Chiaroscuro**</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>imicky@gmail.com (imick)</managingEditor>
+    <webMaster>imicky@gmail.com (imick)</webMaster>
+    <copyright>© Copyright imick</copyright>
+    <lastBuildDate>Tue, 23 Sep 2014 22:10:50 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/workbench/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>玩木工【八】：没有专业的木工桌怎么办？</title>
+      <link>http://localhost:1313/articles/jw008/</link>
+      <pubDate>Tue, 23 Sep 2014 22:10:50 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw008/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw008/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

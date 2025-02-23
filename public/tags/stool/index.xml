@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stool on **Chiaroscuro**</title>
+    <link>http://localhost:1313/tags/stool/</link>
+    <description>Recent content in Stool on **Chiaroscuro**</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>imicky@gmail.com (imick)</managingEditor>
+    <webMaster>imicky@gmail.com (imick)</webMaster>
+    <copyright>© Copyright imick</copyright>
+    <lastBuildDate>Tue, 02 Dec 2014 15:15:01 -0600</lastBuildDate><atom:link href="http://localhost:1313/tags/stool/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>玩木工【九】：跟着 Christopher Schwarz 学做锯木凳（上）</title>
+      <link>http://localhost:1313/articles/jw009/</link>
+      <pubDate>Tue, 02 Dec 2014 15:15:01 -0600</pubDate>
+      <author>imicky@gmail.com (imick)</author>
+      <guid>http://localhost:1313/articles/jw009/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/jw009/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
