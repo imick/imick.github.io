@@ -6,3 +6,4 @@ title = 'Links'
 +++
 
 {{< friend name="Miona" url="https://www.kylinbag.top/" logo="/links/Miona.jpeg" word="锁麟囊" >}}
+{{< friend name="Shiori" url="https://shioriblog.org/" logo="/links/Shiori.jpeg" word="独居日记" >}}
